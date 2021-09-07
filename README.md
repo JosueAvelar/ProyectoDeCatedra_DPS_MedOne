@@ -26,7 +26,7 @@ Usted es libre para:
 <b>Bajo los siguientes términos:</b>
 <br><br><b>Reconocimiento — </b>Usted debe darle crédito a esta obra de manera adecuada, proporcionando un enlace a la licencia, e indicando si se han realizado cambios. Puede hacerlo en cualquier forma razonable, pero no de forma tal que sugiera que usted o su uso tienen el apoyo del licenciante.
 <br><br><b>Compartir Igual —</b>Si usted mezcla, transforma o crea nuevo material a partir de esta obra, usted podrá distribuir su contribución siempre que utilice lamisma licencia que la obra original.
-<br><br><b>No Comercial — </b>Usted no puede usar el material con fines comerciales.
+<br><br><b>No Comercial — </b>Usted se no puede usar el material con fines comerciales.
 <br><br><b>No hay restricciones adicionales — </b>Usted no puede aplicar términos legales ni medidas tecnológicas que restrinjan legalmente a otros hacer cualquier uso permitido por la licencia.
 <br>
 # Enlaces de interés
