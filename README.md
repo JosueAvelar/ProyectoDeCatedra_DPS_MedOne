@@ -3,7 +3,7 @@
 <i>Creación de una aplicación móvil para una farmacia para la materia Diseño y programación de software multiplataforma, impartida en la Universidad Don Bosco durante el ciclo II 2021.</i>
 
 # Autores
-<b>Josué David Avelar Ponce - Lógica, programación, diseño, lógica</b>
+<b>Josué David Avelar Ponce - Lógica, programación, diseño</b>
 
 <b>Ebony Gabriela Peña Gómez - Lógica, programación, diseño</b>
 
