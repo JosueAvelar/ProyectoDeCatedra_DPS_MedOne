@@ -28,7 +28,6 @@ Usted es libre para:
 <br><br><b>No hay restricciones adicionales — </b>Usted no puede aplicar términos legales ni medidas tecnológicas que restrinjan legalmente a otros hacer cualquier uso permitido por la licencia.
 <br>
 # Enlaces de interés
-
 <b>[Tablero de Notion]
 <br>https://phantom-koala-4d2.notion.site/Workflow-Proyecto-de-C-tedra-94a92cd8a9944c87aff2d74987eced73
   
