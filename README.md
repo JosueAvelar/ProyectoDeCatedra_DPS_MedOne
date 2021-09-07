@@ -11,6 +11,8 @@
 
 <b>Nelson Orlando Lemus Cardoza - Lógica, programación, diseño</b>
 
+<i>Todos los integrantes corresponden al grupo teórico 02T</i>
+
 # Licencia
 
 Este proyecto está bajo licencia <b><i>Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</i></b> que establece lo siguiente:
