@@ -36,3 +36,9 @@ Usted es libre para:
 <br>
 <b>[Mockups realizados en Figma]
 <br>https://www.figma.com/file/y0TBM6wnFz8PFrpJ4lCsWY/MedOne?node-id=17%3A9
+
+<b>[Manual de usuario]
+<br>
+  
+<b>[Manual técnico]
+<br>
