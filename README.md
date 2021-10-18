@@ -41,4 +41,4 @@ Usted es libre para:
 <br>
   
 <b>[Manual técnico]
-<br>
+<br>https://docs.google.com/document/d/1FC6GQllPOe92su8uZv9jzYOu29aGuxeiEIdVKNgpEH4/edit#
