@@ -39,6 +39,10 @@ Usted es libre para:
 
 <b>[Manual de usuario]
 <br>
-  
+  [Manual de usuario.pdf](https://github.com/JosueAvelar/ProyectoDeCatedra_DPS_MedOne/files/7362442/Manual.de.usuario.pdf)
+
 <b>[Manual técnico]
 <br>https://docs.google.com/document/d/1FC6GQllPOe92su8uZv9jzYOu29aGuxeiEIdVKNgpEH4/edit#
+  
+<b>[Video explicativo]
+<br>https://drive.google.com/file/d/1wHAiAz-PbUwM-bLmuGJsWuFHInMZO_mE/view?usp=sharing
