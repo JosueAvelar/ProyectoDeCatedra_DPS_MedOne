@@ -38,7 +38,8 @@ Usted es libre para:
 #
 <b>[Manual de usuario]
 <br>
-#https://drive.google.com/file/d/12Gzx46fJdMsg2EdlS3xlr54zMHWK68I2/view?usp=sharing
-<br><b>[Manual técnico]
+https://drive.google.com/file/d/12Gzx46fJdMsg2EdlS3xlr54zMHWK68I2/view?usp=sharing
+#
+<b>[Manual técnico]
 <br>https://drive.google.com/file/d/1J9aqG3xnFusbg92wMwFA_CAPPW7VQ5rm/view?usp=sharing
 #
