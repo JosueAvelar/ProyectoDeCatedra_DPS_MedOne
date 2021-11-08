@@ -40,5 +40,5 @@ Usted es libre para:
 <br>
 #
 <b>[Manual técnico]
-<br>
-
+<br>https://drive.google.com/file/d/1J9aqG3xnFusbg92wMwFA_CAPPW7VQ5rm/view?usp=sharing
+#
